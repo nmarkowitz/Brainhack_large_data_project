@@ -6,3 +6,5 @@ navbar:
   left:
     - text: "Tree Template"
       href: BIDS_Tree_Template_Horizontal.html
+      
+
