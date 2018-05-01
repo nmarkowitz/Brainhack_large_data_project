@@ -22,10 +22,7 @@ Christopher F. A. Benjamin, et al. 2018. bioRxiv 279117; doi: https://doi.org/10
 
 ```{r, include = FALSE}
 "This table displays what types of professionals are utlizing fMRI data for clinical usage. It may be assummed not all backgrounds are trained fully navigating and interpreting large MRI databases."
-# fig.cap="Come back to for editing"
 ```
-
-
 
 
 ### How can we make it transferable?
