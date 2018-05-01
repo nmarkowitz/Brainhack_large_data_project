@@ -13,14 +13,14 @@ As tools and data primarily used by researchers move into the hands of clinician
 
 There's a diversity of backgrounds among those using this data for clinical purposes. A standardized and easy to use way to allow all professionals to utilize this data becomes a great benefit.
 
-```{r pressure, echo=FALSE, fig.cap="Come back to for editing", out.width = '100%'}
+```{r pressure, echo=FALSE, out.width = '100%'}
 # knitr::include_graphics("clinical_table.png")
 knitr::include_graphics("table_II.gif")
 ```
 Presurgical language fMRI: Current technical practices in epilepsy surgical planning
 Christopher F. A. Benjamin, et al. 2018. bioRxiv 279117; doi: https://doi.org/10.1101/279117
 
-```{r, include = FALSE}
+```{r, include = FALSE, fig.cap="Come back to for editing"}
 "This table displays what types of professionals are utlizing fMRI data for clinical usage. It may be assummed not all backgrounds are trained fully navigating and interpreting large MRI databases."
 ```
 
