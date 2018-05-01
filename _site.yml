@@ -1,11 +1,5 @@
 name: "Brainhack"
 output_dir: "."
-navbar:
-  title: "Index"
-  href: index.html
-  left:
-    - text: "Tree Template"
-      href: BIDS_Tree_Template_Horizontal.html
 output:
   html_document:
     includes:

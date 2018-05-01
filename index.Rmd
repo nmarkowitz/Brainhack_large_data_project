@@ -11,6 +11,7 @@ As tools and data primarily used by researchers move into the hands of clinician
 \
 \
 \
+
 ### Who's using the data?
 
 There's a diversity of backgrounds among those using this data for clinical purposes.
@@ -25,6 +26,7 @@ knitr::include_graphics("clinical_table.png")
 ```
 
 Benjamin et al., 2018. Presurgical language fMRI: Current technical practices in epilepsy surgical planning. **Review ongoing**
+
 \
 \
 \
