@@ -1,6 +1,2 @@
 name: "Brainhack"
 output_dir: "."
-output:
-  html_document:
-    includes:
-      after_body: BIDS_Tree_Template_Horizontal.html

@@ -11,25 +11,28 @@ As tools and data primarily used by researchers move into the hands of clinician
 
 ### Who's using the data?
 
-There's a diversity of backgrounds among those using this data for clinical purposes.
+There's a diversity of backgrounds among those using this data for clinical purposes. A standardized and easy to use way to allow all professionals to utilize this data becomes a great benefit.
 
 ```{r pressure, echo=FALSE, fig.cap="Come back to for editing", out.width = '100%'}
-knitr::include_graphics("clinical_table.png")
+# knitr::include_graphics("clinical_table.png")
+knitr::include_graphics("table_II.gif")
 ```
-
+Presurgical language fMRI: Current technical practices in epilepsy surgical planning
+Christopher F. A. Benjamin, et al. 2018. bioRxiv 279117; doi: https://doi.org/10.1101/279117
 
 ```{r, include = FALSE}
 "This table displays what types of professionals are utlizing fMRI data for clinical usage. It may be assummed not all backgrounds are trained fully navigating and interpreting large MRI databases."
 ```
 
-Benjamin et al., 2018. Presurgical language fMRI: Current technical practices in epilepsy surgical planning. **Review ongoing**
 
-![Tree](BIDS_Tree_Template_Horizontal.html)
+
 
 ### How can we make it transferable?
 
-A tree diagram, interactive and visualizing standardized output, has potential to make large data easily understood
+A tree diagram, interactive and visualizing standardized output, has potential to make large data easily understood. Below is an interactive tree that would allow sharing and organization of data easier. It would also allow data to be less prone to naming and file placement errors.
+
+![](BIDS_Tree_Template_Horizontal.html)
 
 Presented at Brainhack 2018 at the Child Mind Institute in NYC
 
-Presented by Noah Markowitz | noahb.markowitz@gmail.com
+Noah Markowitz | noahb.markowitz@gmail.com
