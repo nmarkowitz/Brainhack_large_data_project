@@ -24,18 +24,11 @@ knitr::include_graphics("clinical_table.png")
 
 Benjamin et al., 2018. Presurgical language fMRI: Current technical practices in epilepsy surgical planning. **Review ongoing**
 
+![Tree](BIDS_Tree_Template_Horizontal.html)
 
 ### How can we make it transferable?
 
 A tree diagram, interactive and visualizing standardized output, has potential to make large data easily understood
-
-\
-\
-\
-\
-\
-\
-\
 
 Presented at Brainhack 2018 at the Child Mind Institute in NYC
 
