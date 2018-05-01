@@ -8,9 +8,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 As tools and data primarily used by researchers move into the hands of clinicians, such tools and data must be made readily accessible and easy to use. Visualizations and graphics, acting as an index and accommodated by brief descriptors, are a powerful method to allow clinicians readily access and understand large data.
-\
-\
-\
 
 ### Who's using the data?
 
@@ -27,9 +24,6 @@ knitr::include_graphics("clinical_table.png")
 
 Benjamin et al., 2018. Presurgical language fMRI: Current technical practices in epilepsy surgical planning. **Review ongoing**
 
-\
-\
-\
 
 ### How can we make it transferable?
 
