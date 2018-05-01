@@ -1,10 +1,8 @@
 ---
 title: "Large Data For Clinicians"
-author: "Noah Markowitz"
-date: "5/1/2018"
 output: 
   html_document: 
-    theme: spacelab
+    theme: flatly
 ---
 
 ```{r setup, include=FALSE}
@@ -21,10 +19,14 @@ There's a diversity of backgrounds among those using this data for clinical purp
 knitr::include_graphics("clinical_table.png")
 ```
 
-Benjamin et al., 2018. Presurgical language fMRI: Current technical practices in epilepsy surgical planning. *Review ongoing*
+Benjamin et al., 2018. Presurgical language fMRI: Current technical practices in epilepsy surgical planning. **Review ongoing**
 
 ### How can we make it transferable?
 
 A tree diagram, interactive and visualizing standardized output, has potential to make large data easily understood
 
-[Link](BIDS_Tree_Template_Horizontal.html)
+[Large Data Tree Template](BIDS_Tree_Template_Horizontal.html)
+
+Presented at Brainhack 2018 at the Child Mind Institute in NYC
+
+Presented by [Noah Markowitz](noahb.markowitz@gmail.com)
