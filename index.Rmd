@@ -29,7 +29,6 @@ Benjamin et al., 2018. Presurgical language fMRI: Current technical practices in
 
 A tree diagram, interactive and visualizing standardized output, has potential to make large data easily understood
 
-[Large Data Tree Template](BIDS_Tree_Template_Horizontal.html)
 \
 \
 \
@@ -40,4 +39,4 @@ A tree diagram, interactive and visualizing standardized output, has potential t
 
 Presented at Brainhack 2018 at the Child Mind Institute in NYC
 
-Presented by [Noah Markowitz](noahb.markowitz@gmail.com)
+Presented by Noah Markowitz | noahb.markowitz@gmail.com
