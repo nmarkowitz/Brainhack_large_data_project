@@ -1,4 +1,5 @@
 name: "Brainhack"
+output_dir: "."
 navbar:
   title: "Index"
   href: index.html
