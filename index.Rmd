@@ -20,8 +20,9 @@ knitr::include_graphics("table_II.gif")
 Presurgical language fMRI: Current technical practices in epilepsy surgical planning
 Christopher F. A. Benjamin, et al. 2018. bioRxiv 279117; doi: https://doi.org/10.1101/279117
 
-```{r, include = FALSE, fig.cap="Come back to for editing"}
+```{r, include = FALSE}
 "This table displays what types of professionals are utlizing fMRI data for clinical usage. It may be assummed not all backgrounds are trained fully navigating and interpreting large MRI databases."
+# fig.cap="Come back to for editing"
 ```
 
 
