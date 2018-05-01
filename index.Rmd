@@ -1,8 +1,6 @@
 ---
 title: "Large Data For Clinicians"
-output: 
-  html_document: 
-    theme: flatly
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
