@@ -1,7 +1,6 @@
-# Brainhack_large_data_project
-Brainhack 2018 Project
+# Brainhack Large Data Project
 
-
+This is a presentation of a simple to use tool to allow easy visualization of shared large data repositories among colleagues, teammates and collaborators.
 
 
 Please note that the file table_II.gif containing the table of the multitude and diversity of professionals using this data should be cited as:
