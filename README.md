@@ -2,6 +2,11 @@
 
 This is a presentation of a simple to use tool to allow easy visualization of shared large data repositories among colleagues, teammates and collaborators.
 
+A shared google doc can be copied from:
+https://drive.google.com/drive/u/1/folders/1xlfeAFpp8iOH12bXONfD9OsRGLFFSLD-
+
+Please note that draw.io, an application of Goodle Docs, may be needed to be download and edit the document
+
 
 Please note that the file table_II.gif containing the table of the multitude and diversity of professionals using this data should be cited as:
 
