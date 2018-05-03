@@ -20,10 +20,6 @@ knitr::include_graphics("table_II.gif")
 Presurgical language fMRI: Current technical practices in epilepsy surgical planning
 Christopher F. A. Benjamin, et al. 2018. bioRxiv 279117; doi: https://doi.org/10.1101/279117
 
-```{r, include = FALSE}
-"This table displays what types of professionals are utlizing fMRI data for clinical usage. It may be assummed not all backgrounds are trained fully navigating and interpreting large MRI databases."
-```
-
 
 ### How can we make it transferable?
 
@@ -34,7 +30,7 @@ A tree diagram, interactive and visualizing standardized output, has potential t
 A shared google doc can be copied from:
 https://drive.google.com/drive/u/1/folders/1xlfeAFpp8iOH12bXONfD9OsRGLFFSLD-
 
-Please note that draw.io, an application of Goodle Docs, may be needed to be download and edit the document
+Please note that draw.io, an application of Google Docs, may be needed to be download and edit the document
 
 
 

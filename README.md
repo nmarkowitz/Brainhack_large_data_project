@@ -7,7 +7,7 @@ This is a presentation of a simple to use tool to allow easy visualization of sh
 A shared google doc can be copied from:
 https://drive.google.com/drive/u/1/folders/1xlfeAFpp8iOH12bXONfD9OsRGLFFSLD-
 
-Check back at a later date for an updated version of this tool. Please feel free to create your own, suggest and contribute.
+Check back at a later date for an updated version of this tool. Please feel free to create your own, suggest and contribute. You can also read the brief presentation of this project at https://sportnoah14.github.io/Brainhack_large_data_project/
 
 Please note that draw.io, an application of Goodle Docs, may be needed to be download and edit the document. The associated html file is an export of google docs. 
 
