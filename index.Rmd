@@ -25,15 +25,7 @@ Christopher F. A. Benjamin, et al. 2018. bioRxiv 279117; doi: https://doi.org/10
 
 A tree diagram, interactive and visualizing standardized output, has potential to make large data easily understood. Below is an interactive tree that would allow sharing and organization of data easier. It would also allow data to be less prone to naming and file placement errors.
 
-![](BIDS_Tree_Template_Horizontal.html)
-
-A shared google doc can be copied from:
-https://drive.google.com/drive/u/1/folders/1xlfeAFpp8iOH12bXONfD9OsRGLFFSLD-
-
-Please note that draw.io, an application of Google Docs, may be needed to be download and edit the document
-
-
-<br>
+The most current revision of the tree can be found at the [CNIC Benjamin Lab website](https://cogneuro.net/bids/)
 
 ---
 
